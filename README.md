@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xs-t" alt="xs-t" /></a> </p>
 
-- 💬 Ask me about **Java/Kotin/Python**
+- 💬 Ask me about **Java/Kotlin/Python**
 
 - 📫 How to reach me **crewco-admin@crewco.org**
 
