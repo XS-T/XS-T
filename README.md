@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java/Kotlin/Python**
 
-- 📫 How to reach me **crewco-admin@crewco.org**
+- 📫 How to reach me **xst@crewco.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
